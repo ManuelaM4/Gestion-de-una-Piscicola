@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="0J_OjmcejtVZUzp1UGHe">
+    <mxGraphModel dx="573" dy="287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QQTheecNn22pFIbeWXq--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=light-dark(#B1DDF0,#9999FF);strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sistema de Gestión de una Piscícola&lt;/font&gt;" vertex="1">
+          <mxGeometry height="190" width="320" x="240" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QQTheecNn22pFIbeWXq--2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#60A917,#FF99FF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#000000);" value="&lt;span id=&quot;docs-internal-guid-fff40d5a-7fff-ae96-34c5-a1e1b952abb2&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: 700; font-variant: normal; vertical-align: baseline; white-space: pre-wrap; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Gestionar Empleados&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;background-color: transparent; font-weight: 700; font-variant: normal; vertical-align: baseline; white-space: pre-wrap; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="315" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="QQTheecNn22pFIbeWXq--3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" value="Jefe" vertex="1">
+          <mxGeometry height="100" width="50" x="130" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="QQTheecNn22pFIbeWXq--4" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=none;startArrow=none;strokeColor=#ae4132;strokeWidth=2;fillColor=#fad9d5;" target="QQTheecNn22pFIbeWXq--2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="255" as="sourcePoint" />
+            <mxPoint x="335" y="289.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
